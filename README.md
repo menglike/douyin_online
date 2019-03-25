@@ -6,7 +6,7 @@
 开发架构：
   php+python+redis+oss  
   php网站  
-  pytho爬虫  
+  python爬虫  
   redis数据缓存  
   oss存储抖音视频  
   
